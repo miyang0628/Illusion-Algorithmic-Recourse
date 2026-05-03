@@ -1,0 +1,7 @@
+Group,Algorithm,SHAP_HHI,CI_95_lower,CI_95_upper,G3_verdict
+Young Male,LGBM,0.1389,0.1323,0.1463,OK
+Young Female,LGBM,0.1515,0.1382,0.1664,OK
+Middle-aged Male,LGBM,0.0742,0.0716,0.0772,OK
+Middle-aged Female,XGB,0.093,0.0886,0.0978,OK
+Elderly Male,LGBM,0.094,0.0879,0.1015,OK
+Elderly Female,RF,0.1045,0.1,0.1098,OK

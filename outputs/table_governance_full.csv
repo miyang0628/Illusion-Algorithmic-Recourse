@@ -1,0 +1,7 @@
+Group,Algorithm,RMSE,MAE,R2,Bias,Stage_Acc,N_holdout,CV_Gap,G2a,Perturb_drop,G2c,SHAP_HHI,CI_95_lower,CI_95_upper,G3_verdict,MC_Score,G4_verdict
+Young Male,LGBM,18.386,8.5718,0.0728,-0.8545,0.7708,349,3.2753,✗ Risk,0.0875,✓ OK,0.1389,0.1323,0.1463,✓ OK,0.7692,△ Caution
+Young Female,LGBM,15.8624,7.1404,0.0813,-0.4536,0.9108,415,2.9785,✗ Risk,0.1005,✓ OK,0.1515,0.1382,0.1664,✓ OK,0.7692,△ Caution
+Middle-aged Male,LGBM,25.9668,15.2688,0.0315,-1.0738,0.452,646,0.7712,✓ OK,0.0737,✓ OK,0.0742,0.0716,0.0772,✓ OK,0.7692,△ Caution
+Middle-aged Female,XGB,17.3049,10.5567,0.1536,0.6881,0.6291,887,2.4504,✗ Risk,0.6122,✓ OK,0.093,0.0886,0.0978,✓ OK,0.7692,△ Caution
+Elderly Male,LGBM,21.4421,15.716,0.0507,0.5625,0.4484,455,4.1375,✗ Risk,0.1086,✓ OK,0.094,0.0879,0.1015,✓ OK,0.7692,△ Caution
+Elderly Female,RF,20.1553,13.5241,0.0698,0.523,0.4376,585,1.6911,△ Caution,0.1583,✓ OK,0.1045,0.1,0.1098,✓ OK,0.7692,△ Caution

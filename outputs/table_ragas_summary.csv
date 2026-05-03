@@ -1,0 +1,5 @@
+Metric,Mean,SD,Min,Max,Interpretation
+faithfulness,0.2514,0.1776,0.0769,1.0,High variance — some hallucination beyond DiCE bounds
+answer_relevancy,0.8176,0.1404,0.0,0.8823,Near reference threshold (0.80)
+context_recall,0.5509,0.1701,0.25,0.75,Variable coverage
+context_precision,1.0,0.0,1.0,1.0,Perfect — structured template effective
