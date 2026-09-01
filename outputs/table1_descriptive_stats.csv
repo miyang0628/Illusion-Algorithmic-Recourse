@@ -1,7 +1,0 @@
-Group,n,FPG_Mean,FPG_SD,FPG_Median,Normal_pct,IFG_pct,Diabetes_pct
-Young Male,1745,94.3,15.94,92.0,80.5,17.7,1.8
-Young Female,2075,90.17,13.5,89.0,91.3,7.6,1.1
-Middle-aged Male,3226,106.67,25.67,100.0,48.5,39.1,12.4
-Middle-aged Female,4432,98.91,20.65,95.0,68.0,26.2,5.8
-Elderly Male,2275,109.72,26.02,103.0,40.9,41.8,17.2
-Elderly Female,2924,105.0,21.9,99.0,51.1,37.3,11.6
