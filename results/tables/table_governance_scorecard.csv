@@ -1,0 +1,8 @@
+Pillar,Weight,Score,Verdict
+G1 Fairness (corrected),0.35,0.6802,OK
+"  G1 Fairness (raw, ref.)",—,0.05,Risk
+G2 Robustness,0.25,0.481,Risk
+G3 Transparency,0.2,1.0,OK
+G4 Accountability,0.2,0.37870000000000004,Caution
+COMPOSITE (G1-corrected),1.0,0.6341,Amber — Conditional
+"COMPOSITE (G1-raw, ref.)",—,0.4135,Red — Do not deploy

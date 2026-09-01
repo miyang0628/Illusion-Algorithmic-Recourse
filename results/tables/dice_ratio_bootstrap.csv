@@ -1,0 +1,5 @@
+Metric,Comparison,Ratio,CI_lo,CI_hi
+Proximity_Euclid,Elderly Male / Young Male,,,
+Proximity_Euclid,Elderly Female / Young Female,3.02,2.45,4.01
+Proximity_Maha,Elderly Male / Young Male,,,
+Proximity_Maha,Elderly Female / Young Female,1.24,0.9,1.67

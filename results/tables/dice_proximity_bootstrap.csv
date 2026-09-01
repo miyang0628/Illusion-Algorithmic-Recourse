@@ -1,0 +1,11 @@
+Metric,Group,n_cases,mean,CI_lo,CI_hi
+Proximity_Euclid,Young Male,3,0.0747,0.0268,0.0998
+Proximity_Euclid,Young Female,3,0.1504,0.112,0.185
+Proximity_Euclid,Middle-aged Male,3,0.354,0.1445,0.7298
+Proximity_Euclid,Middle-aged Female,3,0.138,0.0825,0.2287
+Proximity_Euclid,Elderly Female,3,0.4536,0.4317,0.4835
+Proximity_Maha,Young Male,3,5.4849,1.8938,7.9363
+Proximity_Maha,Young Female,3,11.9631,10.0591,15.4464
+Proximity_Maha,Middle-aged Male,3,9.7297,5.484,17.1551
+Proximity_Maha,Middle-aged Female,3,10.9743,8.0701,13.8056
+Proximity_Maha,Elderly Female,3,14.8032,11.95,19.1239

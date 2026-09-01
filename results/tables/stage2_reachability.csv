@@ -1,0 +1,7 @@
+Group,n_eligible,n_reachable,reachable_rate,median_min_pred
+Young Male,125,125,1.0,89.32
+Young Female,70,70,1.0,81.03
+Middle-aged Male,430,429,0.998,94.53
+Middle-aged Female,409,408,0.998,90.8
+Elderly Male,324,0,0.0,103.42
+Elderly Female,347,347,1.0,93.78

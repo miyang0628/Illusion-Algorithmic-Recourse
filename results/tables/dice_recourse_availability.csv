@@ -1,0 +1,13 @@
+Group,Transition,n_eligible,n_attempted,n_recourse,n_absent,recourse_rate,absence_rate
+Young Male,Diabetes → IFG,8,3,3,0,1.0,0.0
+Young Male,IFG → Normal,125,3,3,0,1.0,0.0
+Young Female,Diabetes → IFG,9,3,3,0,1.0,0.0
+Young Female,IFG → Normal,70,3,3,0,1.0,0.0
+Middle-aged Male,Diabetes → IFG,137,3,3,0,1.0,0.0
+Middle-aged Male,IFG → Normal,430,3,3,0,1.0,0.0
+Middle-aged Female,Diabetes → IFG,93,3,3,0,1.0,0.0
+Middle-aged Female,IFG → Normal,409,3,3,0,1.0,0.0
+Elderly Male,Diabetes → IFG,116,3,3,0,1.0,0.0
+Elderly Male,IFG → Normal,324,3,0,3,0.0,1.0
+Elderly Female,Diabetes → IFG,130,3,3,0,1.0,0.0
+Elderly Female,IFG → Normal,347,3,3,0,1.0,0.0

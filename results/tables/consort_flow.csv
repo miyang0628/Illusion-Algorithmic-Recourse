@@ -1,0 +1,6 @@
+Step,n_before,n_after,removed
+Raw merged (hn20–hn24),,34640,
+1. Drop missing FPG (HE_glu),34640.0,30392,4248.0
+2. Exclude diabetes-medication users,30392.0,30344,48.0
+3. Restrict to adults (age ≥ 19),30344.0,27936,2408.0
+4. FPG within 40–400 mg/dL,27936.0,27934,2.0

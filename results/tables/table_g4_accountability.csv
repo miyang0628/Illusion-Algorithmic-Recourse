@@ -1,0 +1,14 @@
+item,fulfilled
+Intended purpose documented,True
+Training data source and period stated,True
+Medicated-diabetic exclusion criterion stated,True
+Performance metrics reported (RMSE/MAE/R2),True
+Base-rate-corrected fairness metrics reported,True
+Limitations and failure modes disclosed,True
+Disaggregated performance by group,True
+SHAP attribution available,True
+DiCE counterfactual paths provided,True
+LLM personalised reports generated,True
+Code publicly available (GitHub),False
+Human-in-the-loop procedure defined,False
+Privacy Impact Assessment (PIA) conducted,False

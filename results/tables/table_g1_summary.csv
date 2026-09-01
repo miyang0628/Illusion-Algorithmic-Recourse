@@ -1,0 +1,6 @@
+Metric,Value,Verdict,Type
+Δ-RMSE,15.057,Risk,raw
+Δ-StageAccuracy,0.463,Risk,raw (confounded)
+Δ-BalancedAccuracy,0.096,OK,corrected
+Δ-CohenKappa,0.251,Caution,corrected
+Δ-Improvement,0.093,—,corrected (context)

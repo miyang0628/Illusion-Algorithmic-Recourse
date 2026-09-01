@@ -1,0 +1,11 @@
+Metric,Comparison,Ratio,CI_lo,CI_hi,note
+prox_euclid,Elderly Female / Young Male,1.12,1.06,1.17,
+prox_euclid,Elderly Male / Young Male,,,,undefined — no reachable recourse
+prox_euclid,Middle-aged Male / Young Male,1.21,1.15,1.27,
+prox_euclid,Middle-aged Female / Young Male,1.03,0.97,1.08,
+prox_euclid,Young Female / Young Male,1.01,0.94,1.08,
+prox_maha,Elderly Female / Young Male,1.92,1.82,2.03,
+prox_maha,Elderly Male / Young Male,,,,undefined — no reachable recourse
+prox_maha,Middle-aged Male / Young Male,1.36,1.3,1.42,
+prox_maha,Middle-aged Female / Young Male,1.3,1.24,1.36,
+prox_maha,Young Female / Young Male,1.03,0.97,1.11,

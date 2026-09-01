@@ -1,0 +1,13 @@
+Group,Metric,n,mean,CI_lo,CI_hi
+Young Male,prox_euclid,125,0.7987,0.7642,0.8426
+Young Male,prox_maha,125,13.6683,13.1939,14.1763
+Young Female,prox_euclid,70,0.8049,0.767,0.848
+Young Female,prox_maha,70,14.1178,13.3276,14.9659
+Middle-aged Male,prox_euclid,429,0.9702,0.954,0.9862
+Middle-aged Male,prox_maha,429,18.524,18.0531,18.9881
+Middle-aged Female,prox_euclid,408,0.8217,0.8088,0.8352
+Middle-aged Female,prox_maha,408,17.7447,17.2671,18.2406
+Elderly Male,prox_euclid,0,,,
+Elderly Male,prox_maha,0,,,
+Elderly Female,prox_euclid,347,0.8953,0.8822,0.9081
+Elderly Female,prox_maha,347,26.3076,25.3075,27.2858

@@ -1,0 +1,7 @@
+,Value
+"ΔStageAcc (raw, confounded)",0.463
+ΔImprovement (over majority),0.093
+ΔBalancedAcc (base-rate invariant),0.096
+ΔCohenKappa,0.251
+ΔMacroF1,0.204
+ΔRMSE,15.06

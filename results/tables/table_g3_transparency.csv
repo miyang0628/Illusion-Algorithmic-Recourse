@@ -1,0 +1,7 @@
+Group,Algorithm,SHAP_HHI,CI_95_lower,CI_95_upper,G3_verdict,BalancedAcc,Caveat
+Young Male,LGBM,0.1803,0.175,0.1865,Caution,0.407,
+Young Female,XGB,0.1577,0.1502,0.1647,OK,0.402,diffuse attribution but low accuracy — not genuine transparency
+Middle-aged Male,XGB,0.066,0.064,0.0682,OK,0.38,diffuse attribution but low accuracy — not genuine transparency
+Middle-aged Female,XGB,0.1224,0.1186,0.1265,OK,0.437,
+Elderly Male,RF,0.3835,0.3611,0.4065,Risk,0.341,
+Elderly Female,XGB,0.0991,0.0963,0.1022,OK,0.362,diffuse attribution but low accuracy — not genuine transparency
